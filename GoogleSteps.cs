@@ -23,7 +23,7 @@ namespace TesteGoogleJenkins
         public void DadoDigiteNaBusca(string p0)
         {
             driver_.FindElement(By.XPath("//input[@title='Pesquisar']")).Click();
-            driver_.FindElement(By.XPath("salota")).SendKeys("Inmetrics");
+            driver_.FindElement(By.XPath("//input[@title='Pesquisar']")).SendKeys("Inmetrics");
         }
         
         [When(@"clico no botão buscar")]
