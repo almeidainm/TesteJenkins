@@ -26,3 +26,5 @@ C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\obj\Debug\
 C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\obj\Debug\TesteGoogleJenkins.csproj.CopyComplete
 C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\obj\Debug\TesteGoogleJenkins.dll
 C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\obj\Debug\TesteGoogleJenkins.pdb
+C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\bin\Debug\System.ValueTuple.dll
+C:\Users\Inmetrics\source\repos\TesteGoogleJenkins\TesteGoogleJenkins\bin\Debug\System.ValueTuple.xml
