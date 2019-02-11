@@ -22,7 +22,7 @@ namespace TesteGoogleJenkins
         [Given(@"digite ""(.*)"" na busca")]
         public void DadoDigiteNaBusca(string p0)
         {
-            driver_.FindElement(By.XPath("//input[@title='Pesquisar']")).Click();
+            driver_.FindElement(By.XPath("Salinha")).Click();
             driver_.FindElement(By.XPath("//input[@title='Pesquisar']")).SendKeys("Inmetrics");
         }
         
