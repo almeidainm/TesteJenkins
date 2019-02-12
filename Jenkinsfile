@@ -9,7 +9,7 @@ stage 'BUILD'
     bat label: '', script: 'TesteGoogleJenkins.sln'
 stage 'TESTE ACESSO AO SITE'
     bat label: '', script: '"C:/Program Files (x86)/NUnit.org/nunit-console/nunit3-console.exe" TesteGoogleJenkins/bin/Debug/TesteGoogleJenkins.dll'
-stage("GERANDO RELATÓRIO NO TRA"){
+stage("GERANDO RELATORIO NO TRA"){
      nunit testResultsPattern: 'TestResult.xml'
      }
 } 
